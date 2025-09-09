@@ -1,4 +1,11 @@
-## I'm using machine learning for chemistry!
+## Welcome! I'm Arun 
+
+- 🎓 Recent Oxford Chemistry graduate with a strong focus on **data science, machine learning, and quantitative methods**  
+- 📝 Master’s thesis: [*Understanding the Complexity of Many-Body Potential Energy Surfaces for Improved Atomistic Machine Learning*](https://github.com/arunspencer/mchem-thesis-public)  
+- 📊 Currently interning at [Etrading Software](https://etradingsoftware.com/), working with post-trade derivative and bond datasets on **data quality, anomaly detection, and visualisation**  
+
+### 🚀 Projects
+- Public repos coming soon
 
 <!--
 **arunspencer/arunspencer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
